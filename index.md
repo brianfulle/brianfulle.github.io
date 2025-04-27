@@ -19,7 +19,7 @@ _**[Contextual Analysis of 10-Ks using NLP and relation to stock returns](_layou
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="_layouts/output_13_0.png"/>
+<img src="report_graphs.jpg"/>
 
 ---
 
