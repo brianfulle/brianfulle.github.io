@@ -15,11 +15,11 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Contextual Analysis of 10-Ks using NLP and relation to stock returns](midterm_summary)**_
+_**[Contextual Analysis of 10-Ks using NLP and relation to stock returns](_layouts/report)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_13_0.png?raw=true"/>
 
 ---
 
