@@ -1,7 +1,7 @@
 ## About Me
 
 
-I am an awesome student at Lehigh, you should hire me!
+I am a rising senior in the Lehigh Univerisity College of Business. I am pursuing a double major in Finance and Business Analytics and minoring in Data Science. 
 
 <!-- Upload your own photo and change the path -->
 
