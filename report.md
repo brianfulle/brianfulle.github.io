@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---  
+
 # Mid-term Report 
 
 ## Summary  
