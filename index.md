@@ -6,7 +6,7 @@ Hi, my name is Brian Fullenbaum. I am a rising senior in the Lehigh Univerisity 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-square" src="images/Headshot.jpg" width="30%">
+  <img src="images/Headshot.jpg" class="img-fluid rounded-circle" width="200" alt="Headshot">
 </p>
 
 ---
