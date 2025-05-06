@@ -1,7 +1,7 @@
 ## About Me
 
 
-I am a rising senior in the Lehigh Univerisity College of Business. I am pursuing a double major in Finance and Business Analytics and minoring in Data Science. 
+Hi, my name is Brian Fullenbaum. I am a rising senior in the Lehigh Univerisity College of Business. I am pursuing a double major in Finance and Business Analytics and minoring in Data Science. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -23,21 +23,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
