@@ -23,13 +23,13 @@ This report looks at the sentiments of 10-K reports, and comparing that to the r
 
 ---
 
-_**[FinTech Capstone Spring 2025](/pdf/sample_presentation.pdf)**_
+_**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
 <img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
 
 ---
 
-_**[Analyzing FED Announcements Dashboard](/pdf/stablecoin_report.pdf)**_
+_**[FinTech Capstone Project Spring 2025](/pdf/stablecoin_report.pdf)**_
 
 <img src="images/stablecoin_picture.png"/>
 
