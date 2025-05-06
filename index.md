@@ -25,7 +25,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 _**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
 
 ---
 
