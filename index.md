@@ -23,7 +23,7 @@ This report looks at the sentiments of 10-K reports, and comparing that to the r
 
 ---
 
-_**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
+_**[FinTech Capstone Spring 2025](/pdf/sample_presentation.pdf)**_
 
 <img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
 
