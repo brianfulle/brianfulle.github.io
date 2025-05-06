@@ -29,6 +29,12 @@ _**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
 ---
 
+_**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
+
+<img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
+
+---
+
 ## Career Objectives
 
 Write what you want. 
