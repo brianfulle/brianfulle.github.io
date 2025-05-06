@@ -19,7 +19,7 @@ _**[Contextual Analysis of 10-Ks using NLP and relation to stock returns](report
 
 This report looks at the sentiments of 10-K reports, and comparing that to the returns of the stocks in the S&P 500 after the report's filing date. I picked three topics to look at (governance, supply chain, work force) and attempted to see how sentiment related to those topics in the 10-K will have an effect on the stock returns. The majority of the work considered creating the actual dataset, which includes company infomration, 10-K filing dates, returns over 10 days, and a 10 different sentiment measures. Below are the final scatterplot graphs that were created, and the link to the project report is above.
 
-<img src="report_graphs.jpg"/>
+<img src="images/report_graphs.jpg"/>
 
 ---
 
