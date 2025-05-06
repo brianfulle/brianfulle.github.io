@@ -45,7 +45,7 @@ This repott explores how Google could integrate stablecoins - blockchain-based d
 
 ## Hobbies
 
-I have a lot of hobbies including: movies, mountain biking, community service, SpikeBall, Rummikub, basketball, traveling, crosswords, squash, data analytics, poker, Catan, TV shows, reading the news
+I have a lot of hobbies including: movies, mountain biking, community service, SpikeBall, Rummikub, basketball, traveling, crosswords, squash, data analytics, poker, Catan, TV shows, reading the news, and many more.....
 
 ---
 
