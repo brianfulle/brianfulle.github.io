@@ -52,10 +52,10 @@ I have a lot of hobbies including: movies, mountain biking, community service, S
 ## Some Travels!
 
 ***Iceland***
-<img src="images/Iceland.JPG"/>
+<img src="images/Iceland.jpg"/>
 
 ***Canada***
-<img src="images/Canada.jpg"/>
+<img src="images/Canada.JPG"/>
 
 ***Florida***
 <img src="images/Florida.jpg"/>
