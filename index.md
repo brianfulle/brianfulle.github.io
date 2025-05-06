@@ -23,7 +23,7 @@ This report looks at the sentiments of 10-K reports, and comparing that to the r
 
 ---
 
-_**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
+_**[Analyzing FED Announcements Dashboard](/pdf/FIN_377_Final.pdf)**_
 
 This project investigates how financial markets respond to Federal Reserve communications through a sentiment analysis of FOMC announcements. Using sentiment dictionaries, keyword selection for multiple topics, and the OpenAI API, we analyzed FOMC statements and FOMC intermeeting minutes. After getting the sentiment measures of the documents, we scraped the returns from major stock indices (15 days before the document release and 15 minutes after) and compared that to the sentiment. 
 
