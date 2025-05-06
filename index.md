@@ -43,17 +43,9 @@ This repott explores how Google could integrate stablecoins - blockchain-based d
 
 ---
 
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
-
----
-
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I have a lot of hobbies including: movies, mountain biking, community service, SpikeBall, Rummikub, basketball, traveling, crosswords, squash
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
