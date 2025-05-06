@@ -25,11 +25,19 @@ This report looks at the sentiments of 10-K reports, and comparing that to the r
 
 _**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
+This project investigates how financial markets respond to Federal Reserve communications through a sentiment analysis of FOMC announcements. Using sentiment dictionaries, keyword selection for multiple topics, and the OpenAI API, we analyzed FOMC statements and FOMC intermeeting minutes. After getting the sentiment measures of the documents, we scraped the returns from major stock indices (15 days before the document release and 15 minutes after) and compared that to the sentiment. 
+
 <img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
 
 ---
 
 _**[FinTech Capstone Project Spring 2025](/pdf/stablecoin_report.pdf)**_
+
+This repott explores how Google could integrate stablecoins - blockchain-based digital currencies pegged to fiat (typically USD) - into its payment infrastructure. It evaluates stablecoin use cases across Google's operations, such as:
+  - Consumer transactions, including YoutubeTV and Google Play;
+  - B2B transactions, like merchant payouts and supplier settlemtns;
+  - Treasury management, enabling faster and cheaper global fund movements;
+  - Digital wallets, such as Google Pay, for peer-to-peer and retail payments'
 
 <img src="images/stablecoin_picture.png"/>
 
