@@ -61,13 +61,13 @@ I have a lot of hobbies including: movies, mountain biking, community service, S
 <img src="images/Florida.jpg"/>
 
 ***Spain***
-<img src="images/Spain.jpg"/>
+<img src="images/Spain.JPG"/>
 
 ***Grand Canyon***
-<img src="images/Grand_Canyon.jpg"/>
+<img src="images/Grand_Canyon.JPG"/>
 
 ***Utah***
-<img src="images/Utah.jpg"/>
+<img src="images/Utah.JPG"/>
 
 ***Niagra Falls***
 <img src="images/Niagra_Falls.jpg"/>
