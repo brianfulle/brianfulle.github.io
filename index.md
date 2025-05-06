@@ -15,7 +15,7 @@ Hi, my name is Brian Fullenbaum. I am a rising senior in the Lehigh Univerisity 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-[Contextual Analysis of 10-Ks using NLP and relation to stock returns](report.md)**_
+_**[Contextual Analysis of 10-Ks using NLP and relation to stock returns](report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
