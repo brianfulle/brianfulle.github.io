@@ -45,8 +45,32 @@ This repott explores how Google could integrate stablecoins - blockchain-based d
 
 ## Hobbies
 
-I have a lot of hobbies including: movies, mountain biking, community service, SpikeBall, Rummikub, basketball, traveling, crosswords, squash, data analytics, poker
+I have a lot of hobbies including: movies, mountain biking, community service, SpikeBall, Rummikub, basketball, traveling, crosswords, squash, data analytics, poker, Catan
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+## Some Travels!
+
+***Iceland***
+<img src="images/Iceland.jpg"/>
+
+***Canada***
+<img src="images/Canada.jpg"/>
+
+***Florida***
+<img src="images/Florida.jpg"/>
+
+***Spain***
+<img src="images/Spain.jpg"/>
+
+***Grand Canyon***
+<img src="images/Grand_Canyon.jpg"/>
+
+***Utah***
+<img src="images/Utah.jpg"/>
+
+***Niagra Falls***
+<img src="images/Niagra_Falls.jpg"/>
+
+
+
