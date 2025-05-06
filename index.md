@@ -31,7 +31,7 @@ _**[Analyzing FED Announcements Dashboard](/pdf/sample_presentation.pdf)**_
 
 _**[Analyzing FED Announcements Dashboard](/pdf/stablecoin_report.pdf)**_
 
-<img src="images/Banking-December-FOMC-announcement-live-blog.jpg"/>
+<img src="images/stablecoin_picture.png"/>
 
 ---
 
