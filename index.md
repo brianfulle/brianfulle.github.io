@@ -69,7 +69,7 @@ I have a lot of hobbies including: movies, mountain biking, community service, S
 ***Utah***
 <img src="images/Utah.JPG"/>
 
-***Niagra Falls***
+***Niagara Falls***
 <img src="images/Niagra_Falls.jpg"/>
 
 
